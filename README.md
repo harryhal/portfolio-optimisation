@@ -11,11 +11,6 @@ This project implements a portfolio optimization algorithm based on the Markowit
 - Support for custom constraints (target return, target risk)
 - Command-line interface for easy usage
 
-## Requirements
-
-- Python 3.6+
-- Required packages: numpy, pandas, matplotlib, scipy, yfinance, plotly
-
 ## Theory
 
 ### Markowitz Mean-Variance Model
